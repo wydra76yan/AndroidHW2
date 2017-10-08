@@ -18,9 +18,6 @@ public class MainActivity extends AppCompatActivity {
         //change 112
         //change 111
         //change 132
-        //change 145
-        //change 156
-        //change 178
-        //change 190
+        //stash
     }
 }
