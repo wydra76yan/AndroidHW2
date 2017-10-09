@@ -16,5 +16,9 @@ public class MainActivity extends AppCompatActivity {
         //try to conflict one more time
         //try to conflict one two more time
         //try to conflict one three time
+        //change 000
+        //change 165
+        //change 112
+       //resolved
     }
 }
