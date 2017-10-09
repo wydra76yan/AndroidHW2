@@ -13,14 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(Tag, "Cherry pick");
-        //change 000
-        //change 165
-        //change 112
-        //change 111
-        //change 132
-        //change 145
-        //change 156
-        //change 178
-        //change 190
+        //try to conflict one more time
+        //try to conflict one two more time
+        //try to conflict one three time
     }
 }
