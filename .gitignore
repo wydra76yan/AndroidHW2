@@ -2,8 +2,8 @@
 .gradle
 /local.properties
 .idea/*
+*.orig
 .DS_Store
 /build
 /captures
 .externalNativeBuild
-app/src/main/java/com/example/yanvydra/androidhw2/MainActivity.java.orig
