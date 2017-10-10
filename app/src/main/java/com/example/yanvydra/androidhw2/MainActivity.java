@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(Tag, "Cherry pick");
-        //for conflict lol
-        // for conflict kek
+        //try to conflict one more time
+        //try to conflict one two more time
         // for conflict kek
         // for conflict kek123
         // for conflict kek3434
