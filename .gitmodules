@@ -1,3 +1,6 @@
 [submodule "AndroidHW2"]
 	path = AndroidHW2
 	url = https://github.com/wydra76yan/AndroidHW2.git
+[submodule "AndroidHW3"]
+	path = AndroidHW3
+	url = https://github.com/wydra76yan/AndroidHW2.git
