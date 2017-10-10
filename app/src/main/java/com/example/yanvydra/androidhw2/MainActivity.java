@@ -15,5 +15,12 @@ public class MainActivity extends AppCompatActivity {
         Log.d(Tag, "Cherry pick");
         //for conflict lol
         // for conflict kek
+        // for conflict kek
+        // for conflict kek123
+        // for conflict kek3434
+        // for conflict kek43534
+        // for conflict kek134
+        // for conflict kek767
+
     }
 }
